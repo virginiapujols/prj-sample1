@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView
+    android:id="@+id/gridViewComponent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.virginia.myapplication.GridActivity"
+    android:columnWidth="100dp"
+    android:numColumns="auto_fit"
+    android:horizontalSpacing="20dp"
+    android:verticalSpacing="10dp"
+    android:stretchMode="columnWidth"
+    android:gravity="center"
+    >
+
+</GridView>
